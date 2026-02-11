@@ -1,0 +1,17 @@
+{
+    "HotSearchSubscribe": {
+        "name": "HH热搜关键词订阅",
+        "description": "获取HH热搜关键词，自动添加订阅",
+        "version": "1.3",
+        "icon": "https://raw.githubusercontent.com/Exlany/MoviePilot-Plugins/main/icons/hotsearch.png",
+        "color": "#d81e06",
+        "author": "Lany",
+        "level": 1,
+        "history": {
+            "v1.3": "域名更新、代码重构优化、新增媒体类型过滤、历史页面优化",
+            "v1.2": "重构获取最新季的代码，提升稳定性",
+            "v1.1": "修复订阅不到最新季的问题",
+            "v1.0": "初次发布"
+        }
+    }
+}
